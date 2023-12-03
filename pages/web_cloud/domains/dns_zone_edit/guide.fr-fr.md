@@ -1,4 +1,4 @@
----
+google-site-verification=uLQhkexeyTirjnT-LtnQB0h4k30fwJW2UkmzS7uJMcM---
 title: 'Éditer une zone DNS OVHcloud'
 excerpt: 'Découvrez comment éditer une zone DNS OVHcloud via votre espace client'
 updated: 2022-07-07
