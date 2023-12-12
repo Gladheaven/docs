@@ -1,4 +1,4 @@
----
+---google-site-verification=uLQhkexeyTirjnT-LtnQB0h4k30fwJW2UkmzS7uJMcM
 title: "Modifier les serveurs DNS d'un nom de domaine OVHcloud"
 excerpt: 'Apprenez à modifier les serveurs DNS de votre nom de domaine OVHcloud'
 updated: 2023-08-24
